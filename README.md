@@ -1,7 +1,7 @@
 ## <p align="center"> Hi there 👋</p>
-   I am Archit Chawda, a 2nd year B.Tech student studying computer science. I like learning about programming languages, framework and new technologies. I love interacting with new people so please do reach out...
+   I am Archit Chawda, a final year B.Tech student studying computer science. I like learning about programming languages, framework and new technologies. I love interacting with new people so please do reach out...
 
-   - 🌱 I’m currently learning `AI`
+   - 🌱 I’m currently into 'Android Developmenmt'
    - 👀 I’m interested in 'competitive programming, AI'
    - 👯 I’m looking to collaborate on `creating open source projects`
    - 🤔 I’m looking for help with `finding internships`
